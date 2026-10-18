@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "google",
+  "repo": "pygtrie",
+  "versions": [
+    {
+      "commit": "64ee0836f41a59919ecf8a59b0c7e2f7f1b8c5ba",
+      "parsed_at": "2026-10-18T05:27:39.078054+00:00",
+      "filetree": "filetree/64ee0836f41a59919ecf8a59b0c7e2f7f1b8c5ba.nq.gz",
+      "blobs": [
+        "blob/2516142770acdcec615fda5c4c9c822e68d3095e.nq.gz",
+        "blob/3143b59f4e6408498dc8d875ab7f4e7e13bf4e01.nq.gz",
+        "blob/95b16395732cd28ba6cca752eb0f9cee8413b8a6.nq.gz",
+        "blob/0c41e055a35dbb615688151505456cc305140a9e.nq.gz",
+        "blob/59634df3074136f42f315223a07d89dabc1f61e1.nq.gz",
+        "blob/f698a01d9580006f8cd4d9cff4861388d1734e8d.nq.gz",
+        "blob/77ab0d21f97bc56fdb619805e0ac199dd7a7f0dd.nq.gz",
+        "blob/3f647ce0075762b7ffbd31b4cf324bfab2546916.nq.gz",
+        "blob/d2a58dc73dbe73e7601f8ac32e3b34902d7384b1.nq.gz",
+        "blob/edb0592bfc5d173cb0740827bbdc8bf79c3c23f5.nq.gz",
+        "blob/a1e780cb4bd9306d02eb4c66fd93c794bff16afa.nq.gz",
+        "blob/2ce1750a713d2513c662f059b18857d13adff3b8.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/e22535a015f4ec757318f1001bf64012f1ee38f9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
