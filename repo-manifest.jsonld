@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google/pygtrie/commit/64ee0836f41a59919ecf8a59b0c7e2f7f1b8c5ba",
       "git:hexsha": "64ee0836f41a59919ecf8a59b0c7e2f7f1b8c5ba",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:30:03.162976+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google/pygtrie/commit/1cfc167c5201d855763714bd9f88e312e56402bd",
